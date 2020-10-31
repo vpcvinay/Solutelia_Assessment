@@ -1,2 +1,2 @@
 # Solutelia_Assessment
-The script contains the function maxSubArray which takes array as an input and return an interger of max continues sum of sub array from the given array. The function traverses over all the input elements and finds sub array with max sum. The script runs in _O(N)_ time complexity and _O(1)_ space complexity.
+The problem to find sum in an entire array could be solved by the dynamic programming (DP) approach in linear time. The script contains the function maxSubArray which traverses over all the input elements and and replaces the element with the maximum sum of the previous elements and returns the max of the present and previous sum. The script runs in _O(N)_ time complexity and _O(1)_ space complexity.
