@@ -1,2 +1,2 @@
 # Solutelia_Assessment
-The repo contains the Solutelia coding assessment script.
+The script contains the function maxSubArray which takes array as an input and return an interger of max sum. The function traverses over all the input elements and finds sub array with max sum. The script runs in _O(N)_ time complexity and _O(1)_ space complexity.
